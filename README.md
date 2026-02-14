@@ -5,6 +5,7 @@ Motion Store adalah aplikasi e-commerce sederhana berbasis Android (Jetpack Comp
 
 Aplikasi ini dibuat untuk memenuhi tugas pengembangan aplikasi mobile dengan implementasi API, Room Database, dan arsitektur MVVM.
 
+Link Presentasi: https://drive.google.com/file/d/170dVyvgvPtaoEtobx_s3mf5g-CVt1qD_/view?usp=sharing
 ---
 
 ## 🎯 Tujuan Pembuatan
